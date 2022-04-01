@@ -1,0 +1,27 @@
+.second{
+    display:flex;
+  
+    justify-content:center;
+}
+
+ .under{
+    color:rgb(26, 211, 66);
+} 
+
+.title{
+  font-size:25px;
+   padding-bottom: 20px;
+    color: rgb(14, 170, 0);
+   font-weight: bold;
+
+}
+.nav-links{
+   color:rgb(26, 211, 66);
+   padding-bottom: 20px;
+}
+.img{
+    height:60vh;
+    width:100vw;
+    margin-bottom :20px;
+  
+}

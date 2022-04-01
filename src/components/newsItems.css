@@ -1,0 +1,16 @@
+.news-app {
+    display:flex;
+    justify-content:center
+    
+}
+
+.news-item {
+    width: 300px;
+    background: linear-gradient(-45deg, #e6e947, #f4f5dd);
+    margin-bottom: 20px;
+  
+}
+
+.news-img {
+    width: 300px;
+}
